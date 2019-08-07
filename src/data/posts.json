@@ -1,0 +1,22 @@
+[
+    {   
+        "id": 1, 
+        "emp_id": 3433,
+        "cart_id": 1,
+        "snack_id": 1,
+        "qty": 2,
+        "date_time": "2019-07-31",
+        "total": 20.0,
+        "payment_status": "pending"
+    },
+    {
+        "id": 2, 
+        "emp_id": 3433,
+        "cart_id": 2,
+        "snack_id": 1,
+        "qty": 2,
+        "date_time": "2019-07-31",
+        "total": 20.0,
+        "payment_status": "done"
+    }
+]
