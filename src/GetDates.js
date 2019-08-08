@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-// import GetOnlinePosts from './GetOnlinePosts';
+// import './GetOnlinePosts.css';
 
 
 class GetDates extends Component {
@@ -58,9 +58,7 @@ class GetDates extends Component {
                 <input type="text" name="from_date" value={this.state.from_date} onChange={this.onChange} />
                 <input type="text" name="to_date" value={this.state.to_date} onChange={this.onChange}/>
                 <button onClick={this.getData} >submit</button>
-                <br/>                
-                {/* <GetOnlinePosts url={this.URL_REPORT} /> */}
-                {/* <h1>{this.URL_REPORT}</h1> */}
+                <br/>
 
                 <div class="container">
                     <table class="table">
@@ -88,10 +86,6 @@ class GetDates extends Component {
                     }
                     </table>
                 </div>
-
-
-
-                
             </form>
         )
     }
