@@ -1,0 +1,45 @@
+.title{
+    font-size: 18pt;
+    color: blueviolet;
+}
+.item{
+    margin: 10px;
+    font-size: 20pt;
+    color: crimson;
+}
+.body{
+    font-size: 16pt;
+    color: black;
+}
+.header{
+    color: green;
+}
+th, td, tr{
+    padding: 5px;
+    color: black;
+}
+#title{
+    float: left;
+    text-align: start;
+    color: orangered;
+    padding-left: 80px;
+    margin: 3px;
+}
+#from_date, #to_date{
+    float: left;
+    text-align: start;
+    color: orangered;
+    padding-left: 80px;
+    margin: 3px;
+}
+.btn1{
+    background-color: orangered;
+}
+#title1{
+    background-color: orangered;
+    height: 4px;
+}
+.styling{
+    padding-left: 200px;
+    padding-right: 200px;
+}
