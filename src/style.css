@@ -43,3 +43,14 @@ th, td, tr{
     padding-left: 200px;
     padding-right: 200px;
 }
+#to{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+}
+#row-head{
+    background-color: #4798;
+}
+tr{
+    text-align: center;
+}
